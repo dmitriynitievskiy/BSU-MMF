@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AfishaMinsk</string>
+    <string name="drawer_layout"></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Registration</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="text_member">Already a member?Login</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="avrora">Кинотеатр "Аврора"</string>
+    <string name="time">Время работы: ПН-ВС 10:00 - 22:00</string>
+    <string name="address">Адрес: ул.Притыцкого,23</string>
+    <string name="description">Открытие кинотеатра "Аврора" состоялось в 1987 году, в городе Минске.
+        Сегодня кинотеатр разделен на три зала: "Большой" на 390 человек, "Лазурный" на 252 места
+        и зал повышенной комфортности для 116 посетителей. Кинотеатр уже несколько раз подвергался модернизации,
+        сейчас в залах установлена профессиональная аппаратура мировых производителей.
+        В отличие от современного оборудования, проекция залов осталась прежней.
+        Кресла в "Авроре" не так удобны, как в прошедших реконструкцию и новых кинотеатрах,
+        а небольшое расстояние между рядами несколько мешает наслаждаться просмотром фильмов,
+        особенно посетителям с высоким ростом. В отличие от двух других, зал повышенной комфортности обладает намного более удобными креслами,
+        что, правда, сказывается на стоимости билетов. Между этажами находится бар, где можно купить кофе/чай,
+        прохладительные напитки и легкие закуски. </string>
+</resources>

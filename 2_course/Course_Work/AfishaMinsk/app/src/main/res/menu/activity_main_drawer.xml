@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cinemas"
+            android:icon="@drawable/ic_cinemas"
+            android:title="Кинотеатры" />
+        <item
+            android:id="@+id/nav_restaurants"
+            android:icon="@drawable/ic_restaurants"
+            android:title="Рестораны, кафе" />
+        <item
+            android:id="@+id/nav_theaters"
+            android:icon="@drawable/ic_theaters"
+            android:title="Театры" />
+        <item
+            android:id="@+id/nav_concerts"
+            android:icon="@drawable/ic_concerts"
+            android:title="Концерты" />
+        <item
+            android:id="@+id/nav_parties"
+            android:icon="@drawable/ic_parties"
+            android:title="Вечеринки" />
+        <item
+            android:id="@+id/nav_leisure"
+            android:icon="@drawable/ic_leisure"
+            android:title="Активный отдых" />
+    </group>
+    <item
+        android:id="@+id/nav_personalAccount"
+        android:icon="@drawable/ic_person"
+        android:title="Личный кабинет" />
+
+    <item
+        android:id="@+id/nav_marks"
+        android:icon="@drawable/ic_marks"
+        android:title="Закладки" />
+</menu>
