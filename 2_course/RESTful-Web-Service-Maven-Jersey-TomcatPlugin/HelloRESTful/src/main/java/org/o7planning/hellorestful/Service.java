@@ -29,6 +29,7 @@ public class Service {
         }
     }
     
+    /* http://localhost:8080/rest/service/getPersonByIdXML/(1-10) */
     @GET
     @Path("/getPersonByIdXML/{id}")
     @Produces(MediaType.APPLICATION_XML)
@@ -36,6 +37,7 @@ public class Service {
         return persons.get(id);
     }
     
+    /* http://localhost:8080/rest/service/getPersonByIdJSON/(1-10) */
     @GET
     @Path("/getPersonByIdJSON/{id}")
     @Produces(MediaType.APPLICATION_JSON)
@@ -43,6 +45,7 @@ public class Service {
         return persons.get(id);
     }
     
+    /* http://localhost:8080/rest/service/getAllPersonsInXML */
     @GET
     @Path("/getAllPersonsInXML")
     @Produces(MediaType.APPLICATION_XML)
@@ -50,6 +53,7 @@ public class Service {
         return new ArrayList<Person>(persons.values());
     }
     
+    /* http://localhost:8080/rest/service/getAllPersonsInJSON */
     @GET
     @Path("/getAllPersonsInJSON")
     @Produces(MediaType.APPLICATION_JSON)
