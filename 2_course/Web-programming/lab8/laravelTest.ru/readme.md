@@ -1,3 +1,10 @@
+Лабораторная работа 8 : Тест фреймворка Laravel
+
+1. Скачать папку laravelTest.ru
+2. Добавить папку в domains Open Server
+3. Запустить Open Server
+4. В панели управления для Open Server открыть "Мои сайты" и запустить laraveltest.ru
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
